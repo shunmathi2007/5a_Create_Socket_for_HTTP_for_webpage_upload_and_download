@@ -63,4 +63,4 @@ if __name__ == "__main__":
 <img width="1141" height="640" alt="WhatsApp Image 2026-11-02 at 1 52 41 PM" src="https://github.com/user-attachments/assets/b72112a6-a4db-440b-a533-3dfa438f9db1" />
 
 ## Result
-Thus the socket for HTTP for web page upload and download created and Executed
+Thus the socket for HTTP for web page upload and download created and Executed.
